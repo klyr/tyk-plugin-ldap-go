@@ -1,0 +1,9 @@
+{
+    "file_list": [],
+    "custom_middleware": {
+	"auth_check": {
+	    "name": "AddMeta"
+	},
+	"driver": "grpc"
+    }
+}
